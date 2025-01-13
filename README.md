@@ -1,4 +1,4 @@
-# vizsga_projekt
+# https://docs.google.com/document/d/1MnsHdA5yl4Gdoduf3wGMMYgW5ga5l2VZbaVnaPWNXEU/edit?usp=sharing
 vizsga
 Csapatunk egy képzeletbeli hotelt talált ki mely négy fő részre bontható. A hotelben található egy szerver szoba, hotel szobák az étkező valamint a recepció.
 Szerver szoba:
